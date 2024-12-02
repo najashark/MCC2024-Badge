@@ -59,7 +59,7 @@ void drawGame() {
 C:\Users\lab\Documents\Arduino\libraries\ssd1306xled
 ```
 
-9. Make sure to replace [TinyDriver.h](Challenges/TinyDriver.h) in your project.
+9. Make sure to replace [TinyDriver.h](Challenge/TinyDriver.h) in your project.
 10. Open your project.
 11. Compile before flashing to the badge.
 12. In arduino IDE, use this settings.
