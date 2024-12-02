@@ -1,5 +1,5 @@
 # Malaysia Cybersecurity Camp 2024 Badge
-<center><img src="img/badge.jpg" alt="drawing" width="200"/></center>
+<p align="center"><img src="img/badge.jpg" alt="drawing" width="300"/></center></p>
 
 ---
  - ATTiny85 programmed by an Arduino AVR/USBasp via the pin header.
@@ -46,20 +46,20 @@ void drawGame() {
 6. Open Arduino IDE and add this to your preferences - settings
    
    <img src="img/image1.png" alt="drawing" width="200"/>
-7. Install ATTuntCore by Spence Konde
+7. Install ATTinyCore by Spence Konde
    
    <img src="img/image2.png" alt="drawing" width="200"/>
 8. extract [ssd1306xled-master.zip](ssd1306xled-master.zip) to this folder
 ```
 C:\Users\lab\Documents\Arduino\libraries\ssd1306xled
 ``` 
-1. Make sure to replace [TinyDriver.h](Challenges/TinyDriver.h) in your project.
-2.  Open your project.
-3.  Compile before flashing to the badge.
-4.  In arduino IDE, use this settings.
+9. Make sure to replace [TinyDriver.h](Challenges/TinyDriver.h) in your project.
+10.  Open your project.
+11.  Compile before flashing to the badge.
+12.  In arduino IDE, use this settings.
     
     <img src="img/image3.png" alt="drawing" width="200"/>
-5.  Click Upload, if the screen response is slow, burn bootloader and upload again.
+13.  Click Upload, if the screen response is slow, burn bootloader and upload again.
 
 ## Pin label
 Click to enlarge
