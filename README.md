@@ -15,7 +15,7 @@
 
 ## How to solve?
 
-take a look at the code [here](/mcc2024.ino#L227):
+take a look at the code [here](Challenge/mcc2024.ino#L227):
 
 ```C
 void drawGame() {
