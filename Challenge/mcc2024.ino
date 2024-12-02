@@ -1,3 +1,5 @@
+//MCC2024 challenge 95% developed by claude.ai
+//by naja
 #include "TinyDriver.h"
 #include "GameData.h"
 #include <ssd1306xled.h>
